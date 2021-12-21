@@ -1,2 +1,3 @@
 <?php
-echo "ex 1";
+echo "ex 1"."\n";
+echo "bye";
